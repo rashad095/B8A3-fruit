@@ -1,0 +1,61 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+nav{
+    width: 1270px;
+    height: 120px;
+    display: flex;
+    border-radius: 600px;
+    background: #F85559;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    color: #FFF;
+    margin: 50px;
+    gap: 30px;   
+}
+.logo{
+    width: 300px;
+    display: flex;
+    width: 54.517px;
+    height: 60px;
+    gap: 15px;
+    margin-top: 25px;
+}
+.fruit{
+    width: 100px;
+    color: #FFF;
+    text-align: right;
+    font-family: Lato;
+    font-size: 20px;;
+    font-weight: 700;
+}
+.form-control{
+    margin-right: 50px;
+    margin-top: 35px;
+}
+.Meet-section{
+    height: 500px;
+    margin-top: 50px;
+    text-align: center;
+    background: url(../images/banner2.png);
+}
+.Meet-section h2{
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+}
+.Meet-section p{
+    color: #FFF;
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+}
+.flex{
+    display: flex;
+}
